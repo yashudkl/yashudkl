@@ -1,10 +1,10 @@
-👋 Hey, I'm Yashwant
-🔍 Currently exploring both the creative side of web development and the logical world of Data Structures and Algorithms (DSAs).
-⚡ As a beginner in DSAs, I'm steadily working on building a solid foundation while also developing my web development skills.
-🧠 I love solving problems and learning how to approach challenges from new angles, whether it's coding an app or tackling a tricky algorithm.
-🛠️ I work with HTML, CSS, JavaScript, and I'm honing my skills with React. On the algorithm side, I’m practicing regularly on platforms like LeetCode.
-🌱 Committed to learning every day and pushing my limits step by step.
-📫 Let's connect: yashudkl@gmail.com
+👋 Hey, I'm Yashwant <br>
+🔍 Currently exploring both the creative side of web development and the logical world of Data Structures and Algorithms (DSAs). <br>
+⚡ As a beginner in DSAs, I'm steadily working on building a solid foundation while also developing my web development skills. <br>
+🧠 I love solving problems and learning how to approach challenges from new angles, whether it's coding an app or tackling a tricky algorithm. <br>
+🛠️ I work with HTML, CSS, JavaScript, and I'm honing my skills with React. On the algorithm side, I’m learning regularly and seeking forward to use LeetCode for practice. <br>
+🌱 Committed to learning every day and pushing my limits step by step. <br>
+📫 Let's connect: yashudkl@gmail.com <br>
 
 ## 🧰 Languages and Tools:
 <p align="center">
