@@ -3,9 +3,9 @@
 - I’m exploring both the creative side of web development and the logical world of Data Structures and Algorithms (DSAs).
 - As a beginner in DSAs, I'm steadily building a solid foundation while developing my web development skills.
 - I love solving problems and learning how to approach challenges from new angles, whether it's building an app or tackling a tricky algorithm.
-- I work with HTML, CSS, JavaScript, and I'm honing my skills with React. I also practice algorithms regularly on LeetCode.
+- I work with MERN stack for web development with Next js.
 - I'm decent at typing (124 WPM: https://monkeytype.com/profile/yashudkl).
-- I am a board member of our startup **Codelits Studio**.
+- I am a board member and developer of our startup **Codelits Studio**.
 - I'm committed to learning every day and pushing my limits step by step.
 - Let's connect: **yashudkl@gmail.com**
 
