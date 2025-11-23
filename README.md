@@ -1,5 +1,13 @@
 #  About Me:
-👋 Hey, I'm Yashwant<br>🔍 Currently exploring both the creative side of web development and the logical world of Data Structures and Algorithms (DSAs).<br>⚡ As a beginner in DSAs, I'm steadily working on building a solid foundation while also developing my web development skills.<br>🧠 I love solving problems and learning how to approach challenges from new angles, whether it's coding an app or tackling a tricky algorithm.<br>🛠️ I work with HTML, CSS, JavaScript, and I'm honing my skills with React. On the algorithm side, I’m learning regularly and seeking to use LeetCode for practice.<br> ⌨️ Besides that I am decent at typing (124 Words Per Minute https://monkeytype.com/profile/yashudkl) <br>🌱 Committed to learning every day and pushing my limits step by step.<br>📫 Let's connect: yashudkl@gmail.com
+- Hey, I'm Yashwant.
+- I’m exploring both the creative side of web development and the logical world of Data Structures and Algorithms (DSAs).
+- As a beginner in DSAs, I'm steadily building a solid foundation while developing my web development skills.
+- I love solving problems and learning how to approach challenges from new angles, whether it's building an app or tackling a tricky algorithm.
+- I work with HTML, CSS, JavaScript, and I'm honing my skills with React. I also practice algorithms regularly on LeetCode.
+- I'm decent at typing (124 WPM: https://monkeytype.com/profile/yashudkl).
+- I am a board member of our startup **Codelits Studio**.
+- I'm committed to learning every day and pushing my limits step by step.
+- Let's connect: **yashudkl@gmail.com**
 
 
 ## 🌐 Socials:
