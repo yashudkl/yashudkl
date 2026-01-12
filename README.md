@@ -4,7 +4,7 @@
 - As a beginner in DSAs, I'm steadily building a solid foundation while developing my web development skills.
 - I love solving problems and learning how to approach challenges from new angles, whether it's building an app or tackling a tricky algorithm.
 - I work with MERN stack for web development with Next js.
-- I'm decent at typing (127 WPM: https://monkeytype.com/profile/yashudkl).
+- I'm decent at typing (130 WPM: https://monkeytype.com/profile/yashudkl).
 - I am a board member and developer of our startup **Codelits Studio**.
 - I'm committed to learning every day and pushing my limits step by step.
 - Let's connect: **yashudkl@gmail.com**
